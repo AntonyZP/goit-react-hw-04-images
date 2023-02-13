@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-image-finder",
+  "name": "test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AntonyZP.github.io/goit-react-hw-04-image-finder/",
+  "homepage": "https://AntonyZP.github.io/test/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",

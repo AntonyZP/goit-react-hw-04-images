@@ -4,6 +4,7 @@ import { Overlay, ModalWindow } from "./Modal.styled";
 
 const modalRoot = document.querySelector('#modal-root');
 
+
 export default function Modal ({children, onCloseModal}) {
   
   useEffect(()=> { const handleKeyDown = e =>{
